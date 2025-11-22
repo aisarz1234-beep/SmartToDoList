@@ -1,7 +1,3 @@
-package com.example.smarttodolist.controller;
-
-
-public class TodoController {
 package controller;
 
 import javafx.collections.FXCollections;
@@ -183,4 +179,4 @@ public class TodoController implements Initializable {
         alert.showAndWait();
     }
 }
-}
+
